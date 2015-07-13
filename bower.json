@@ -1,0 +1,31 @@
+{
+  "name": "jquery-scrolly",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alvin-nt/scrolly",
+  "authors": [
+    "Victor Coulon <vic.coulon@gmail.com>",
+    "Alvin Natawiguna <alvin.nt.gg@gmail.com>"
+  ],
+  "dependencies": {
+    "jquery": ">=1.11.0"
+  },
+  "description": "Super simple and easy to use parallax plugin for jQuery",
+  "main": "jquery.scrolly.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "jquery",
+    "parallax",
+    "plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
